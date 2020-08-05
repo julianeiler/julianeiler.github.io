@@ -4,19 +4,19 @@ main:
 #     url: /publications/
 
   - title: "Trips"
-    url: /trips/    
+    url: /trips.html
 
 #   - title: "Teaching"
-#     url: /teaching/    
-    
+#     url: /teaching/
+
   - title: "C++"
     url: /cpp/
-        
+
   - title: "Tensorflow"
     url: /tensorflow/
-    
+
   - title: "CV"
     url: /cv/
-    
+
 #   - title: "Guide"
 #     url: /markdown/
