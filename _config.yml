@@ -232,6 +232,33 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _tensorflow
+  - scope:
+      path: ""
+      type: tensorflow
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _cpp
+  - scope:
+      path: ""
+      type: cpp
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _opencv
+  - scope:
+      path: ""
+      type: opencv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
