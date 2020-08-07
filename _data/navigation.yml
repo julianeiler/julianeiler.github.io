@@ -7,7 +7,7 @@ main:
     url: /trips.html
 
   - title: "OpenCV"
-    url: /opencv.html
+    url: /opencv/
 
 #   - title: "Teaching"
 #     url: /teaching/
