@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "OpenCV"
-permalink: /ImageFilter.html
-author_profile: true
+title: "ImageFilter"
+excerpt: "Just a simple image filter"
+collection: portfolio
 ---
 
 <!DOCTYPE html>
@@ -24,6 +23,8 @@ author_profile: true
     <div class="caption">canvasOutput</div>
   </div>
 </div>
+
+
 <script type="text/javascript">
 let imgElement = document.getElementById('imageSrc');
 let inputElement = document.getElementById('fileInput');
@@ -41,6 +42,8 @@ function onOpenCvReady() {
   document.getElementById('status').innerHTML = 'OpenCV.js is ready.';
 }
 </script>
+
 <script async src="_opencv/js/opencv.js" onload="onOpenCvReady();" type="text/javascript"></script>
+
 </body>
 </html>
