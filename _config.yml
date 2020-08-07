@@ -183,7 +183,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  tensorflow:
+    output: true
+    permalink: /:collection/:path/
+  cpp:
+    output: true
+    permalink: /:collection/:path/
+  opencv:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
