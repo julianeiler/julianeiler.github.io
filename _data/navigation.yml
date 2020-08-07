@@ -9,8 +9,8 @@ main:
   - title: "OpenCV"
     url: /opencv/
 
-#   - title: "Teaching"
-#     url: /teaching/
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "C++"
     url: /cpp/
